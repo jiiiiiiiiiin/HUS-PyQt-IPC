@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="logo">
+        <file>static/ico.ico</file>
+        <file>static/school.png</file>
+    </qresource>
+</RCC>
+
